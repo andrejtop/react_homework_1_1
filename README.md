@@ -1,3 +1,5 @@
+[![Netology homework](https://github.com/andrejtop/react_homework_1_1/actions/workflows/web.yml/badge.svg)](https://github.com/andrejtop/react_homework_1_1/actions/workflows/web.yml)
+
 ## Домашняя работа «Страница интернет-магазина (функциональный компонент)»
 
 Необходимо создать React-компонент `ShopItemFunc` (функциональный компонент), с помощью которого мы могли бы реализовывать представление информации о товарах из нашего каталога на сайте в таком виде (компонент обведён пунктирной линией):
